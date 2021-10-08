@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "QuickFileSwitcher: Open related file",
+        "command": "quick_file_switcher"
+    }
+]
